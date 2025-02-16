@@ -1,6 +1,7 @@
-# Spring Boot Template Repository
+# Spring Boot Starter Template Repository
 
-Welcome to the Spring Boot Template Repository! This project provides a ready-to-use Spring Boot setup, helping you jumpstart new applications quickly and efficiently.
+Welcome to the Spring Boot Starter Template Repository! This project provides a ready-to-use Spring Boot Starter setup,
+helping you jumpstart new applications quickly and efficiently.
 
 ## Getting Started
 
@@ -27,4 +28,10 @@ Welcome to the Spring Boot Template Repository! This project provides a ready-to
 
 - Access the running application by opening your browser at http://localhost:8080 (unless you changed the port).
 
+## Starter Template Features
 
+This starter template comes with below libraries.
+
+- Spring Boot Actuator
+- SpringDoc Open API
+- 
