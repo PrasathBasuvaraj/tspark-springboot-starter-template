@@ -41,7 +41,7 @@ dependencies {
 }
 
 def createFeatureStructure(feature) {
-    def featurePath = "src/main/java/com/techspark/starter/${feature}"
+    def featurePath = "src/main/java/org/techspark/starter/${feature}"
     file("${featurePath}/controller").mkdirs()
     file("${featurePath}/dto").mkdirs()
     file("${featurePath}/entity").mkdirs()
