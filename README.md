@@ -26,6 +26,8 @@ helping you jumpstart new applications quickly and efficiently.
 ./gradlew build bootRun
 ```
 
+Open your browser and goto [API Documentation](http://localhost:8080/swagger-ui/index.html)
+
 - Access the running application by opening your browser at http://localhost:8080 (unless you changed the port).
 
 ## Starter Template Features
